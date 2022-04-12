@@ -32,3 +32,5 @@ spec:
             secretKeyRef:
               name: mongodb-secret
               key: mongo-root-password
+#Separation of file
+#---
